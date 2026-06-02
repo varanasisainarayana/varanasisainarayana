@@ -62,7 +62,7 @@ I'm a passionate **MERN Stack Developer** with **2.5 years** of experience build
 
 <div align="center">
 
-[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@varanasisainarayana)
+[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@varanasi-sainarayana1)
 [![Instagram](https://img.shields.io/badge/Instagram-290_Followers-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sainarayanavaranasi/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/varanasisainarayana/)
 
