@@ -20,7 +20,6 @@ I'm a passionate **MERN Stack Developer** with **2.5 years** of experience build
 
 - 🚀 I craft full-stack solutions using **React, Node.js, Express & MongoDB**
 - 📱 I also build cross-platform mobile apps with **React Native**
-- ✍️ I share my knowledge on **YouTube**, **Medium**, and **Instagram**
 - 🌍 Connect with me on **Instagram** [@sainarayanavaranasi](https://www.instagram.com/sainarayanavaranasi/) — 290 followers and growing!
 - ⚡ Fun fact: I believe great UI/UX is as important as clean backend code
 - 🎯 Currently exploring **Next.js** and **Serverless Architecture**
@@ -45,7 +44,7 @@ I'm a passionate **MERN Stack Developer** with **2.5 years** of experience build
 
 <div align="center">
 
-[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@varanasisainarayana) [![Medium](https://img.shields.io/badge/Medium-Follow-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@varanasisainarayana) [![Instagram](https://img.shields.io/badge/Instagram-290_Followers-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sainarayanavaranasi/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/varanasisainarayana/)
+[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@varanasisainarayana) [![Instagram](https://img.shields.io/badge/Instagram-290_Followers-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sainarayanavaranasi/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/varanasisainarayana/)
 
 </div>
 
@@ -80,7 +79,7 @@ I'm a passionate **MERN Stack Developer** with **2.5 years** of experience build
 
 I'm always open to collaborating on exciting projects, discussing tech, or just having a good conversation. Feel free to reach out!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-varanasisainarayana-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/varanasisainarayana/) [![Instagram](https://img.shields.io/badge/Instagram-sainarayanavaranasi-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/sainarayanavaranasi/) [![YouTube](https://img.shields.io/badge/YouTube-varanasisainarayana-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@varanasisainarayana) [![Medium](https://img.shields.io/badge/Medium-varanasisainarayana-12100E?style=flat&logo=medium&logoColor=white)](https://medium.com/@varanasisainarayana)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-varanasisainarayana-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/varanasisainarayana/) [![Instagram](https://img.shields.io/badge/Instagram-sainarayanavaranasi-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/sainarayanavaranasi/) [![YouTube](https://img.shields.io/badge/YouTube-varanasisainarayana-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@varanasisainarayana)
 
 ---
 
